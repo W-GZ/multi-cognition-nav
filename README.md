@@ -1,7 +1,6 @@
-# Cognitive Visuomotor Navigation for Embodied Agents with Both Spatial Memory and Semantic Inference
-
+# Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition
 [IRMV Lab](https://irmv.sjtu.edu.cn/)
 
-Official Github repository for "Cognitive Visuomotor Navigation for Embodied Agents with Both Spatial Memory and Semantic Inference".
+Official Github repository for "Visuomotor Navigation for Embodied Robots With Spatial Memory and Semantic Reasoning Cognition".
 
 The source code will be uploaded soon.
