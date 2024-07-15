@@ -15,14 +15,14 @@ python train.py --img 640 --batch 16 --epochs 2000 --data gibson.yaml --weights 
 ```
 results：runs/train
 
-#### 2.Validating Model Detection Accuracy
+#### 2.Model Detection Accuracy Validating
 ```
 python val.py --img 640 --data gibson.yaml --weights yolov3.pt
 ```
 results：runs/val
 
 ## Imitation Learning
-#### 1.Obtain training data
+#### 1.Training Data Obtaining
 ```
 cd Gibson_Dataset_Sample
 
@@ -36,7 +36,7 @@ cd ImitationLearning_gibson/train/IL_topo_semantic
 python main.py
 ```
 
-#### 3.Test
+#### 3.Testing
 ```
 cd ImitationLearning_gibson/test/rl_topo_semantic
 
