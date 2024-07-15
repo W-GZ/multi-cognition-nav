@@ -1,0 +1,30 @@
+def ig_categories():
+    categories = ['armchair',
+                  'bathtub',
+                  'bed',
+                  'bed_lamp',
+                  'bedside_table',
+                  'bookshelf',
+                  'booktable',
+                  'breakfast_table',
+                  'door',
+                  'floor_lamp',
+                  'fridge',
+                  'kitchen_cabinet',
+                  'microwave',
+                  'oven',
+                  'shower',
+                  'sofa',
+                  'standing_tv',
+                  'stove',
+                  'straight_chair',
+                  'swivel_chair',
+                  'tea_table',
+                  'toilet',
+                  'tv_cabinet',
+                  'wardrobe',
+                  'washer',
+                  'washroom_cabinet']
+
+    return categories
+

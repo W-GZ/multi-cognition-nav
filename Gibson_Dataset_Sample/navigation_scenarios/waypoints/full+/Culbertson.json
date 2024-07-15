@@ -1,0 +1,3102 @@
+[
+    {
+        "dist": 1.825,
+        "goalX": -0.235,
+        "goalY": 1.806,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.825,
+        "split": "full+",
+        "startAngle": 0.337,
+        "startX": 0.004,
+        "startY": -0.004,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.471,
+        "goalX": 0.145,
+        "goalY": 1.461,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.471,
+        "split": "full+",
+        "startAngle": 0.337,
+        "startX": 0.004,
+        "startY": -0.004,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.376,
+        "goalX": 0.417,
+        "goalY": 1.673,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.284,
+        "split": "full+",
+        "startAngle": 3.785,
+        "startX": 0.362,
+        "startY": 0.298,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.276,
+        "goalX": 0.626,
+        "goalY": 1.652,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.486,
+        "split": "full+",
+        "startAngle": 4.395,
+        "startX": 0.223,
+        "startY": 0.442,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.562,
+        "goalX": 0.228,
+        "goalY": 1.842,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.678,
+        "split": "full+",
+        "startAngle": 5.311,
+        "startX": 0.269,
+        "startY": 0.28,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.571,
+        "goalX": 0.534,
+        "goalY": 1.896,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.471,
+        "split": "full+",
+        "startAngle": 0.884,
+        "startX": 0.015,
+        "startY": 0.413,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.299,
+        "goalX": 0.535,
+        "goalY": 1.52,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.327,
+        "split": "full+",
+        "startAngle": 6.486,
+        "startX": 0.404,
+        "startY": 0.227,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.244,
+        "goalX": 0.406,
+        "goalY": 1.668,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.282,
+        "split": "full+",
+        "startAngle": 4.357,
+        "startX": 0.076,
+        "startY": 0.469,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.246,
+        "goalX": 0.429,
+        "goalY": 1.47,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.205,
+        "split": "full+",
+        "startAngle": 1.999,
+        "startX": 0.392,
+        "startY": 0.225,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.528,
+        "goalX": 0.616,
+        "goalY": 1.802,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.488,
+        "split": "full+",
+        "startAngle": 4.217,
+        "startX": 0.31,
+        "startY": 0.305,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.45,
+        "goalX": 0.175,
+        "goalY": 1.794,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.217,
+        "split": "full+",
+        "startAngle": 2.596,
+        "startX": 0.223,
+        "startY": 0.345,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.936,
+        "goalX": -0.077,
+        "goalY": 1.988,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.19,
+        "split": "full+",
+        "startAngle": 4.55,
+        "startX": 0.11,
+        "startY": 0.061,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.477,
+        "goalX": -0.184,
+        "goalY": 1.91,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.482,
+        "split": "full+",
+        "startAngle": 3.919,
+        "startX": 0.224,
+        "startY": 0.491,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.461,
+        "goalX": 0.378,
+        "goalY": 1.583,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.085,
+        "split": "full+",
+        "startAngle": 1.35,
+        "startX": 0.331,
+        "startY": 0.123,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.596,
+        "goalX": -0.166,
+        "goalY": 1.904,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.278,
+        "split": "full+",
+        "startAngle": 1.336,
+        "startX": 0.06,
+        "startY": 0.325,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.824,
+        "goalX": 0.184,
+        "goalY": 1.854,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.661,
+        "split": "full+",
+        "startAngle": 2.654,
+        "startX": 0.415,
+        "startY": 0.045,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.362,
+        "goalX": 0.447,
+        "goalY": 1.83,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.49,
+        "split": "full+",
+        "startAngle": 6.472,
+        "startX": 0.239,
+        "startY": 0.485,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.824,
+        "goalX": -0.087,
+        "goalY": 1.865,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.139,
+        "split": "full+",
+        "startAngle": 0.583,
+        "startX": 0.146,
+        "startY": 0.057,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.738,
+        "goalX": 0.491,
+        "goalY": 1.744,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.128,
+        "split": "full+",
+        "startAngle": 2.335,
+        "startX": 0.212,
+        "startY": 0.029,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.237,
+        "goalX": 0.053,
+        "goalY": 2.271,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.638,
+        "split": "full+",
+        "startAngle": 2.004,
+        "startX": 0.266,
+        "startY": 0.043,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.901,
+        "goalX": 0.123,
+        "goalY": 1.951,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.552,
+        "split": "full+",
+        "startAngle": 2.338,
+        "startX": 0.338,
+        "startY": 0.062,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.48,
+        "goalX": 0.559,
+        "goalY": 1.463,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.179,
+        "split": "full+",
+        "startAngle": 1.488,
+        "startX": 0.298,
+        "startY": 0.007,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.314,
+        "goalX": 0.626,
+        "goalY": 1.585,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.36,
+        "split": "full+",
+        "startAngle": 4.596,
+        "startX": 0.139,
+        "startY": 0.364,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.044,
+        "goalX": -0.124,
+        "goalY": 2.282,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.726,
+        "split": "full+",
+        "startAngle": 3.957,
+        "startX": 0.3,
+        "startY": 0.283,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.527,
+        "goalX": 0.293,
+        "goalY": 1.868,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.453,
+        "split": "full+",
+        "startAngle": 3.146,
+        "startX": 0.428,
+        "startY": 0.346,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.526,
+        "goalX": 0.585,
+        "goalY": 1.807,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.559,
+        "split": "full+",
+        "startAngle": 2.828,
+        "startX": 0.445,
+        "startY": 0.287,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.217,
+        "goalX": 0.467,
+        "goalY": 1.673,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.396,
+        "split": "full+",
+        "startAngle": 4.894,
+        "startX": 0.255,
+        "startY": 0.474,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.806,
+        "goalX": 0.095,
+        "goalY": 1.951,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.337,
+        "split": "full+",
+        "startAngle": 4.147,
+        "startX": 0.014,
+        "startY": 0.147,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.683,
+        "goalX": 0.294,
+        "goalY": 1.746,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.018,
+        "split": "full+",
+        "startAngle": 4.22,
+        "startX": 0.219,
+        "startY": 0.064,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.365,
+        "goalX": 0.471,
+        "goalY": 1.676,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.297,
+        "split": "full+",
+        "startAngle": 4.049,
+        "startX": 0.292,
+        "startY": 0.323,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.698,
+        "goalX": 0.591,
+        "goalY": 1.864,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.357,
+        "split": "full+",
+        "startAngle": 5.97,
+        "startX": 0.188,
+        "startY": 0.214,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.851,
+        "goalX": 0.122,
+        "goalY": 2.305,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.902,
+        "split": "full+",
+        "startAngle": 4.759,
+        "startX": 0.055,
+        "startY": 0.456,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.827,
+        "goalX": 0.073,
+        "goalY": 1.868,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.581,
+        "split": "full+",
+        "startAngle": 1.276,
+        "startX": 0.439,
+        "startY": 0.078,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.62,
+        "goalX": -0.032,
+        "goalY": 1.841,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.526,
+        "split": "full+",
+        "startAngle": 5.665,
+        "startX": 0.408,
+        "startY": 0.281,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.628,
+        "goalX": 0.578,
+        "goalY": 1.948,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.55,
+        "split": "full+",
+        "startAngle": 4.719,
+        "startX": 0.231,
+        "startY": 0.357,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.72,
+        "goalX": 0.13,
+        "goalY": 1.892,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.38,
+        "split": "full+",
+        "startAngle": 5.714,
+        "startX": 0.01,
+        "startY": 0.176,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.765,
+        "goalX": 0.154,
+        "goalY": 1.858,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.972,
+        "split": "full+",
+        "startAngle": 3.611,
+        "startX": 0.032,
+        "startY": 0.096,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.065,
+        "goalX": 0.497,
+        "goalY": 1.477,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.319,
+        "split": "full+",
+        "startAngle": 1.744,
+        "startX": 0.177,
+        "startY": 0.46,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.034,
+        "goalX": -0.116,
+        "goalY": 2.273,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.732,
+        "split": "full+",
+        "startAngle": 1.372,
+        "startX": 0.315,
+        "startY": 0.285,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.346,
+        "goalX": 0.51,
+        "goalY": 1.617,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.266,
+        "split": "full+",
+        "startAngle": 4.194,
+        "startX": 0.272,
+        "startY": 0.291,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.09,
+        "goalX": 0.237,
+        "goalY": 2.176,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.565,
+        "split": "full+",
+        "startAngle": 2.839,
+        "startX": 0.109,
+        "startY": 0.09,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.927,
+        "goalX": -0.206,
+        "goalY": 2.023,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.215,
+        "split": "full+",
+        "startAngle": 3.418,
+        "startX": 0.118,
+        "startY": 0.124,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.707,
+        "goalX": -0.145,
+        "goalY": 1.818,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.312,
+        "split": "full+",
+        "startAngle": 2.296,
+        "startX": 0.353,
+        "startY": 0.185,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.055,
+        "goalX": 0.033,
+        "goalY": 2.254,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.756,
+        "split": "full+",
+        "startAngle": 0.759,
+        "startX": 0.344,
+        "startY": 0.223,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.504,
+        "goalX": -0.104,
+        "goalY": 1.816,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.306,
+        "split": "full+",
+        "startAngle": 6.559,
+        "startX": 0.113,
+        "startY": 0.328,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.71,
+        "goalX": 0.439,
+        "goalY": 1.876,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.23,
+        "split": "full+",
+        "startAngle": 5.102,
+        "startX": 0.164,
+        "startY": 0.188,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.787,
+        "goalX": 0.164,
+        "goalY": 1.899,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.692,
+        "split": "full+",
+        "startAngle": 4.289,
+        "startX": 0.441,
+        "startY": 0.133,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.07,
+        "goalX": 0.239,
+        "goalY": 2.171,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.784,
+        "split": "full+",
+        "startAngle": 6.323,
+        "startX": 0.348,
+        "startY": 0.104,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.31,
+        "goalX": 0.157,
+        "goalY": 1.564,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.856,
+        "split": "full+",
+        "startAngle": 1.932,
+        "startX": 0.111,
+        "startY": 0.256,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.529,
+        "goalX": 0.283,
+        "goalY": 1.754,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.094,
+        "split": "full+",
+        "startAngle": 3.005,
+        "startX": 0.192,
+        "startY": 0.228,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.923,
+        "goalX": -0.169,
+        "goalY": 2.164,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.455,
+        "split": "full+",
+        "startAngle": 5.765,
+        "startX": 0.063,
+        "startY": 0.255,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.618,
+        "goalX": 0.217,
+        "goalY": 1.705,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.023,
+        "split": "full+",
+        "startAngle": 2.825,
+        "startX": 0.287,
+        "startY": 0.088,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.534,
+        "goalX": 0.519,
+        "goalY": 1.913,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.664,
+        "split": "full+",
+        "startAngle": 2.571,
+        "startX": 0.475,
+        "startY": 0.379,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.664,
+        "goalX": 0.246,
+        "goalY": 1.952,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.73,
+        "split": "full+",
+        "startAngle": 0.861,
+        "startX": 0.281,
+        "startY": 0.289,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.875,
+        "goalX": 0.609,
+        "goalY": 1.796,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.095,
+        "split": "full+",
+        "startAngle": 1.85,
+        "startX": 0.055,
+        "startY": 0.005,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.793,
+        "goalX": -0.203,
+        "goalY": 2.049,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.396,
+        "split": "full+",
+        "startAngle": 5.27,
+        "startX": 0.145,
+        "startY": 0.29,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.423,
+        "goalX": 0.625,
+        "goalY": 1.577,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.435,
+        "split": "full+",
+        "startAngle": 6.479,
+        "startX": 0.443,
+        "startY": 0.166,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.502,
+        "goalX": 0.46,
+        "goalY": 1.898,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.627,
+        "split": "full+",
+        "startAngle": 6.301,
+        "startX": 0.475,
+        "startY": 0.396,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.799,
+        "goalX": -0.229,
+        "goalY": 1.98,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.524,
+        "split": "full+",
+        "startAngle": 2.178,
+        "startX": 0.429,
+        "startY": 0.305,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.548,
+        "goalX": 0.393,
+        "goalY": 1.78,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.422,
+        "split": "full+",
+        "startAngle": 1.268,
+        "startX": 0.495,
+        "startY": 0.236,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.32,
+        "goalX": 0.24,
+        "goalY": 1.716,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.16,
+        "split": "full+",
+        "startAngle": 2.653,
+        "startX": 0.073,
+        "startY": 0.408,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.869,
+        "goalX": 0.251,
+        "goalY": 2.286,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.943,
+        "split": "full+",
+        "startAngle": 1.746,
+        "startX": 0.053,
+        "startY": 0.428,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.516,
+        "goalX": 0.185,
+        "goalY": 1.664,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.1,
+        "split": "full+",
+        "startAngle": 6.033,
+        "startX": 0.391,
+        "startY": 0.163,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.79,
+        "goalX": 0.128,
+        "goalY": 1.812,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.26,
+        "split": "full+",
+        "startAngle": 1.796,
+        "startX": 0.071,
+        "startY": 0.023,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.123,
+        "goalX": -0.19,
+        "goalY": 2.142,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.248,
+        "split": "full+",
+        "startAngle": 5.178,
+        "startX": 0.078,
+        "startY": 0.036,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.895,
+        "goalX": 0.195,
+        "goalY": 2.17,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.738,
+        "split": "full+",
+        "startAngle": 1.878,
+        "startX": 0.215,
+        "startY": 0.275,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.919,
+        "goalX": -0.084,
+        "goalY": 1.937,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.097,
+        "split": "full+",
+        "startAngle": 2.035,
+        "startX": 0.07,
+        "startY": 0.024,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.308,
+        "goalX": 0.286,
+        "goalY": 1.651,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.196,
+        "split": "full+",
+        "startAngle": 3.203,
+        "startX": 0.346,
+        "startY": 0.344,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.828,
+        "goalX": 0.493,
+        "goalY": 1.85,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.389,
+        "split": "full+",
+        "startAngle": 1.475,
+        "startX": 0.399,
+        "startY": 0.025,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.761,
+        "goalX": 0.059,
+        "goalY": 1.942,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.377,
+        "split": "full+",
+        "startAngle": 5.221,
+        "startX": 0.134,
+        "startY": 0.183,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.005,
+        "goalX": -0.213,
+        "goalY": 2.206,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.476,
+        "split": "full+",
+        "startAngle": 2.667,
+        "startX": 0.103,
+        "startY": 0.226,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.146,
+        "goalX": 0.054,
+        "goalY": 2.286,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.687,
+        "split": "full+",
+        "startAngle": 0.82,
+        "startX": 0.264,
+        "startY": 0.15,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.863,
+        "goalX": 0.02,
+        "goalY": 2.074,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.411,
+        "split": "full+",
+        "startAngle": 4.393,
+        "startX": 0.022,
+        "startY": 0.212,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.231,
+        "goalX": -0.039,
+        "goalY": 2.284,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.495,
+        "split": "full+",
+        "startAngle": 4.618,
+        "startX": 0.143,
+        "startY": 0.061,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 2.032,
+        "goalX": -0.007,
+        "goalY": 2.247,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.85,
+        "split": "full+",
+        "startAngle": 1.513,
+        "startX": 0.456,
+        "startY": 0.268,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.626,
+        "goalX": 0.597,
+        "goalY": 1.806,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.453,
+        "split": "full+",
+        "startAngle": 3.218,
+        "startX": 0.367,
+        "startY": 0.196,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.241,
+        "goalX": 0.463,
+        "goalY": 1.581,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.223,
+        "split": "full+",
+        "startAngle": 4.733,
+        "startX": 0.168,
+        "startY": 0.375,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.676,
+        "goalX": -0.006,
+        "goalY": 2.101,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.823,
+        "split": "full+",
+        "startAngle": 1.345,
+        "startX": 0.403,
+        "startY": 0.476,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.753,
+        "goalX": 0.053,
+        "goalY": 2.216,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.855,
+        "split": "full+",
+        "startAngle": 5.726,
+        "startX": 0.233,
+        "startY": 0.472,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.585,
+        "goalX": 0.459,
+        "goalY": 1.66,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.259,
+        "split": "full+",
+        "startAngle": 6.047,
+        "startX": 0.412,
+        "startY": 0.076,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.397,
+        "goalX": 0.569,
+        "goalY": 1.477,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.144,
+        "split": "full+",
+        "startAngle": 0.731,
+        "startX": 0.216,
+        "startY": 0.126,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.379,
+        "goalX": 0.153,
+        "goalY": 1.553,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.816,
+        "split": "full+",
+        "startAngle": 6.362,
+        "startX": 0.182,
+        "startY": 0.175,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.855,
+        "goalX": 0.617,
+        "goalY": 1.895,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.581,
+        "split": "full+",
+        "startAngle": 2.858,
+        "startX": 0.469,
+        "startY": 0.046,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.394,
+        "goalX": 0.452,
+        "goalY": 1.477,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.979,
+        "split": "full+",
+        "startAngle": 3.19,
+        "startX": 0.168,
+        "startY": 0.113,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.914,
+        "goalX": -0.109,
+        "goalY": 1.917,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.21,
+        "split": "full+",
+        "startAngle": 0.435,
+        "startX": 0.219,
+        "startY": 0.03,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.773,
+        "goalX": 0.202,
+        "goalY": 1.77,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.851,
+        "split": "full+",
+        "startAngle": 1.928,
+        "startX": 0.07,
+        "startY": 0.002,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.032,
+        "goalX": -0.154,
+        "goalY": 2.125,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.691,
+        "split": "full+",
+        "startAngle": 6.458,
+        "startX": 0.5,
+        "startY": 0.201,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.576,
+        "goalX": 0.536,
+        "goalY": 1.605,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.384,
+        "split": "full+",
+        "startAngle": 3.417,
+        "startX": 0.499,
+        "startY": 0.029,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.606,
+        "goalX": 0.478,
+        "goalY": 1.719,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.246,
+        "split": "full+",
+        "startAngle": 1.854,
+        "startX": 0.336,
+        "startY": 0.119,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.881,
+        "goalX": 0.118,
+        "goalY": 2.013,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.547,
+        "split": "full+",
+        "startAngle": 3.001,
+        "startX": 0.282,
+        "startY": 0.14,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.594,
+        "goalX": -0.212,
+        "goalY": 1.922,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.565,
+        "split": "full+",
+        "startAngle": 2.602,
+        "startX": 0.419,
+        "startY": 0.459,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.777,
+        "goalX": 0.249,
+        "goalY": 2.258,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 3.128,
+        "split": "full+",
+        "startAngle": 2.527,
+        "startX": 0.412,
+        "startY": 0.489,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.84,
+        "goalX": 0.198,
+        "goalY": 1.936,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.461,
+        "split": "full+",
+        "startAngle": 2.2,
+        "startX": 0.5,
+        "startY": 0.121,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 2.232,
+        "goalX": 0.13,
+        "goalY": 2.247,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.744,
+        "split": "full+",
+        "startAngle": 1.803,
+        "startX": 0.349,
+        "startY": 0.026,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.742,
+        "goalX": 0.139,
+        "goalY": 1.925,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.485,
+        "split": "full+",
+        "startAngle": 2.049,
+        "startX": 0.194,
+        "startY": 0.184,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.47,
+        "goalX": 0.564,
+        "goalY": 1.58,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.179,
+        "split": "full+",
+        "startAngle": 1.417,
+        "startX": 0.229,
+        "startY": 0.149,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.982,
+        "goalX": 0.198,
+        "goalY": 2.276,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 3.033,
+        "split": "full+",
+        "startAngle": 3.493,
+        "startX": 0.476,
+        "startY": 0.313,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    },
+    {
+        "dist": 1.24,
+        "goalX": 0.642,
+        "goalY": 1.687,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.614,
+        "split": "full+",
+        "startAngle": 5.054,
+        "startX": 0.354,
+        "startY": 0.48,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.468,
+        "goalX": 0.353,
+        "goalY": 1.526,
+        "goalZ": 0.702,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 1.855,
+        "split": "full+",
+        "startAngle": 0.782,
+        "startX": 0.151,
+        "startY": 0.073,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                0.1,
+                0.992,
+                0.696
+            ],
+            [
+                0.145,
+                1.461,
+                0.702
+            ]
+        ]
+    },
+    {
+        "dist": 1.636,
+        "goalX": 0.249,
+        "goalY": 2.079,
+        "goalZ": 0.704,
+        "id": "Culbertson",
+        "level": 0,
+        "pathDist": 2.868,
+        "split": "full+",
+        "startAngle": 4.133,
+        "startX": 0.196,
+        "startY": 0.444,
+        "startZ": 0.685,
+        "waypoints": [
+            [
+                0.004,
+                -0.004,
+                0.685
+            ],
+            [
+                -0.127,
+                0.988,
+                0.695
+            ],
+            [
+                -0.235,
+                1.806,
+                0.704
+            ]
+        ]
+    }
+]
