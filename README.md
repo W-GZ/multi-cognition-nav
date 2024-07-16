@@ -8,7 +8,7 @@ Official Github repository for "Visuomotor Navigation for Embodied Robots With S
 ## YOLOv3
 
 #### 1.Model Training
-```
+```python
 cd objDetect/yolov3
 
 python train.py --img 640 --batch 16 --epochs 2000 --data gibson.yaml --weights yolov3.pt
@@ -16,28 +16,28 @@ python train.py --img 640 --batch 16 --epochs 2000 --data gibson.yaml --weights 
 results：runs/train
 
 #### 2.Model Detection Accuracy Validating
-```
+```python
 python val.py --img 640 --data gibson.yaml --weights yolov3.pt
 ```
 results：runs/val
 
 ## Imitation Learning
 #### 1.Training Data Obtaining
-```
+```python
 cd Gibson_Dataset_Sample
 
 python sample_training_data.py
 ```
 
 #### 2.Model Training
-```
+```python
 cd ImitationLearning_gibson/train/IL_topo_semantic
 
 python main.py
 ```
 
 #### 3.Testing
-```
+```python
 cd ImitationLearning_gibson/test/rl_topo_semantic
 
 python main.py
